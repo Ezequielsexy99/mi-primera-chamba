@@ -1,0 +1,126 @@
+[22:22:51] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[22:22:53] [Server thread/INFO]: Loading properties
+[22:22:53] [Server thread/INFO]: Default game type: SURVIVAL
+[22:22:53] [Server thread/INFO]: Generating keypair
+[22:22:53] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:22:59] [Server thread/INFO]: Preparing level "world"
+[22:22:59] [Server thread/INFO]: Preparing start region for level 0
+[22:23:00] [Server thread/INFO]: Done (0.932s)! For help, type "help" or "?"
+[22:23:05] [User Authenticator #1/INFO]: UUID of player Abortaperuanos is 60c3afdf-3a25-478f-997a-aea3836e8a2e
+[22:23:06] [Server thread/INFO]: Abortaperuanos[/127.233.133.199:47651] logged in with entity id 337 at (-223.5, 74.0, 233.5)
+[22:23:06] [Server thread/INFO]: Abortaperuanos joined the game
+[22:23:08] [User Authenticator #2/INFO]: UUID of player PurpleGuyKiller7 is adba1faa-a3cd-4c55-b0e8-efdab3b86027
+[22:23:09] [Server thread/INFO]: PurpleGuyKiller7[/127.6.112.109:54059] logged in with entity id 338 at (-221.5, 74.0, 222.5)
+[22:23:09] [Server thread/INFO]: PurpleGuyKiller7 joined the game
+[22:23:10] [User Authenticator #3/INFO]: UUID of player Samugabe is 2fc6c8a5-2d22-4496-b905-d00eb20df7a9
+[22:23:11] [Server thread/INFO]: Samugabe[/127.57.140.247:42093] logged in with entity id 427 at (-225.5, 74.0, 222.5)
+[22:23:11] [Server thread/INFO]: Samugabe joined the game
+[22:23:14] [Server thread/INFO]: PurpleGuyKiller7 has just earned the achievement [Taking Inventory]
+[22:24:03] [Server thread/INFO]: Samugabe has just earned the achievement [Taking Inventory]
+[22:25:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2271ms behind, skipping 45 tick(s)
+[22:27:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 58725ms behind, skipping 1174 tick(s)
+[22:27:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3051ms behind, skipping 61 tick(s)
+[22:27:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14452ms behind, skipping 289 tick(s)
+[22:27:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6641ms behind, skipping 132 tick(s)
+[22:29:48] [Server thread/INFO]: Abortaperuanos has just earned the achievement [Taking Inventory]
+[22:31:52] [Server thread/INFO]: Samugabe has just earned the achievement [Getting Wood]
+[22:32:18] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2780ms behind, skipping 55 tick(s)
+[22:32:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 18932ms behind, skipping 378 tick(s)
+[22:32:53] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2478ms behind, skipping 49 tick(s)
+[22:33:16] [Server thread/INFO]: Samugabe has just earned the achievement [Benchmarking]
+[22:33:27] [Server thread/INFO]: PurpleGuyKiller7 has just earned the achievement [Getting Wood]
+[22:33:34] [Server thread/INFO]: PurpleGuyKiller7 has just earned the achievement [Benchmarking]
+[22:33:52] [Server thread/INFO]: Samugabe has just earned the achievement [Time to Mine!]
+[22:33:58] [Server thread/INFO]: PurpleGuyKiller7 has just earned the achievement [Time to Mine!]
+[22:34:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2735ms behind, skipping 54 tick(s)
+[22:34:29] [Server thread/INFO]: Abortaperuanos has just earned the achievement [Getting Wood]
+[22:34:35] [Server thread/INFO]: Samugabe has just earned the achievement [Getting an Upgrade]
+[22:34:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 14815ms behind, skipping 296 tick(s)
+[22:34:47] [Server thread/INFO]: PurpleGuyKiller7 has just earned the achievement [Getting an Upgrade]
+[22:34:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4237ms behind, skipping 84 tick(s)
+[22:35:12] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9363ms behind, skipping 187 tick(s)
+[22:35:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5495ms behind, skipping 109 tick(s)
+[22:35:43] [Server thread/INFO]: Samugabe has just earned the achievement [Hot Topic]
+[22:36:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2729ms behind, skipping 54 tick(s)
+[22:37:02] [Server thread/INFO]: Samugabe has just earned the achievement [Time to Strike!]
+[22:37:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 32525ms behind, skipping 650 tick(s)
+[22:37:08] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4759ms behind, skipping 95 tick(s)
+[22:37:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 25735ms behind, skipping 514 tick(s)
+[22:37:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4646ms behind, skipping 92 tick(s)
+[22:38:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 13475ms behind, skipping 269 tick(s)
+[22:38:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9213ms behind, skipping 184 tick(s)
+[22:38:37] [Server thread/INFO]: Samugabe has just earned the achievement [Monster Hunter]
+[22:39:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8992ms behind, skipping 179 tick(s)
+[22:43:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3209ms behind, skipping 64 tick(s)
+[22:43:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4857ms behind, skipping 97 tick(s)
+[22:44:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24215ms behind, skipping 484 tick(s)
+[22:44:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2431ms behind, skipping 48 tick(s)
+[22:45:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7444ms behind, skipping 148 tick(s)
+[22:45:45] [Server thread/INFO]: Samugabe has just earned the achievement [Cow Tipper]
+[22:45:52] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 23852ms behind, skipping 477 tick(s)
+[22:45:56] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4238ms behind, skipping 84 tick(s)
+[22:46:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 24716ms behind, skipping 494 tick(s)
+[22:46:38] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2728ms behind, skipping 54 tick(s)
+[22:46:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3554ms behind, skipping 71 tick(s)
+[22:47:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2369ms behind, skipping 47 tick(s)
+[22:50:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3539ms behind, skipping 70 tick(s)
+[22:51:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 31968ms behind, skipping 639 tick(s)
+[22:51:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4171ms behind, skipping 83 tick(s)
+[22:51:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 15289ms behind, skipping 305 tick(s)
+[22:52:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6621ms behind, skipping 132 tick(s)
+[22:52:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 35427ms behind, skipping 708 tick(s)
+[22:53:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9862ms behind, skipping 197 tick(s)
+[22:53:31] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21245ms behind, skipping 424 tick(s)
+[22:53:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2054ms behind, skipping 41 tick(s)
+[22:53:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3616ms behind, skipping 72 tick(s)
+[22:55:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 68062ms behind, skipping 1361 tick(s)
+[22:55:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7919ms behind, skipping 158 tick(s)
+[22:56:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 56594ms behind, skipping 1131 tick(s)
+[22:56:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 12092ms behind, skipping 241 tick(s)
+[22:57:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 41714ms behind, skipping 834 tick(s)
+[22:57:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2691ms behind, skipping 53 tick(s)
+[22:59:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 91343ms behind, skipping 1826 tick(s)
+[22:59:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7227ms behind, skipping 144 tick(s)
+[23:00:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 26581ms behind, skipping 531 tick(s)
+[23:00:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10876ms behind, skipping 217 tick(s)
+[23:00:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 21354ms behind, skipping 427 tick(s)
+[23:01:03] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5906ms behind, skipping 118 tick(s)
+[23:02:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 66137ms behind, skipping 1322 tick(s)
+[23:02:51] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 10888ms behind, skipping 217 tick(s)
+[23:04:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 60509ms behind, skipping 1210 tick(s)
+[23:04:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7096ms behind, skipping 141 tick(s)
+[23:06:59] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 120278ms behind, skipping 2405 tick(s)
+[23:07:58] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2218ms behind, skipping 44 tick(s)
+[23:08:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2037ms behind, skipping 40 tick(s)
+[23:12:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2699ms behind, skipping 53 tick(s)
+[23:12:03] [Server thread/WARN]: PurpleGuyKiller7 moved wrongly!
+[23:12:48] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2613ms behind, skipping 52 tick(s)
+[23:13:01] [Server thread/WARN]: Samugabe moved too quickly! -0.856292844944619,-0.034018886223506684,-16.788022280035534 (0.856292844944619, 0.07378560205421453, 16.788022280035534)
+[23:13:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2545ms behind, skipping 50 tick(s)
+[23:14:30] [Server thread/WARN]: Abortaperuanos moved too quickly! 2.1214177890942665,-0.03324418874937152,-47.44060144722698 (2.1214177890942665, 0.07378560205421453, 47.44060144722698)
+[23:22:39] [Server thread/WARN]: PurpleGuyKiller7 was kicked for floating too long!
+[23:22:39] [Server thread/INFO]: PurpleGuyKiller7 lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:22:39] [Server thread/INFO]: PurpleGuyKiller7 left the game
+[23:22:48] [User Authenticator #4/INFO]: UUID of player PurpleGuyKiller7 is adba1faa-a3cd-4c55-b0e8-efdab3b86027
+[23:22:49] [Server thread/INFO]: PurpleGuyKiller7[/127.6.112.109:43827] logged in with entity id 123043 at (-2657.5102569145965, 73.40905351213519, 1192.6182738618213)
+[23:22:49] [Server thread/INFO]: PurpleGuyKiller7 joined the game
+[23:25:38] [Server thread/WARN]: Samugabe was kicked for floating too long!
+[23:25:38] [Server thread/INFO]: Samugabe lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:25:38] [Server thread/INFO]: Samugabe left the game
+[23:25:47] [User Authenticator #5/INFO]: UUID of player Samugabe is 2fc6c8a5-2d22-4496-b905-d00eb20df7a9
+[23:25:47] [Server thread/INFO]: Samugabe[/127.57.140.247:54283] logged in with entity id 125329 at (-2652.646096685182, 91.09672616018547, 1194.616125129279)
+[23:25:47] [Server thread/INFO]: Samugabe joined the game
+[23:34:14] [Server thread/WARN]: Abortaperuanos was kicked for floating too long!
+[23:34:14] [Server thread/INFO]: Abortaperuanos lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:34:14] [Server thread/INFO]: Abortaperuanos left the game
+[23:34:19] [User Authenticator #6/INFO]: UUID of player Abortaperuanos is 60c3afdf-3a25-478f-997a-aea3836e8a2e
+[23:34:19] [Server thread/INFO]: Abortaperuanos[/127.233.133.199:47357] logged in with entity id 131068 at (-2665.308095217471, 64.07294273282531, 1189.4463880847304)
+[23:34:19] [Server thread/INFO]: Abortaperuanos joined the game
+[23:37:08] [Server thread/INFO]: Abortaperuanos lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:37:08] [Server thread/INFO]: Abortaperuanos left the game
+[23:37:14] [Server thread/WARN]: Samugabe was kicked for floating too long!
+[23:37:14] [Server thread/INFO]: Samugabe lost connection: TextComponent{text='Flying is not enabled on this server', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:37:14] [Server thread/INFO]: Samugabe left the game
+[23:37:19] [Server thread/INFO]: PurpleGuyKiller7 lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[23:37:19] [Server thread/INFO]: PurpleGuyKiller7 left the game
+[23:37:50] [Server Shutdown Thread/INFO]: Stopping server
